@@ -1,0 +1,28 @@
+img {
+  height: 30px;
+}
+.footer {
+  height: 300px;
+  width: 100%;
+  background-color: rgb(61, 24, 97);
+  text-align: center;
+  align-items: center;
+}
+.footerone {
+  padding-top: auto;
+  padding-bottom: auto;
+  color: aliceblue;
+  font-size: larger;
+  font-weight: 700;
+  padding-top: 50px;
+}
+.image {
+  padding-top: 40px;
+  /* gap: 20px;
+  display: flex; */
+  align-items: center;
+}
+.footertwo {
+  padding-top: 40px;
+  color: aquamarine;
+}

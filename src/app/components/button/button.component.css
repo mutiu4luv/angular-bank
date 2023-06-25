@@ -1,0 +1,13 @@
+button {
+  padding: 7px 35px;
+  font-size: 18px;
+  background-color: rgb(61, 24, 97);
+  color: aliceblue;
+  border: none;
+
+  border-radius: 50px;
+}
+button:hover {
+  color: black;
+  background-color: transparent;
+}
